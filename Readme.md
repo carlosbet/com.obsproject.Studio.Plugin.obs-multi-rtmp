@@ -40,7 +40,7 @@ flatpak build-bundle --runtime ./localRepo obs-multi-rtmp.flatpak com.obsproject
 ### Enjoy:
 
 ```
-flatpak run com.obsproject.studio
+flatpak run com.obsproject.Studio
 ```
 
 #### References:
