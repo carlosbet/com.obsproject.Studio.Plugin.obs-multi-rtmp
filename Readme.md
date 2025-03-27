@@ -31,6 +31,12 @@ flatpak-builder --install-deps-from=flathub --repo=./localRepo --force-clean bui
 flatpak --user --runtime install ./localRepo com.obsproject.Studio.Plugin.obs-multi-rtmp
 ```
 
+### Update (If previously installed from localRepo):
+
+```
+flatpak --user --runtime update com.obsproject.Studio.Plugin.obs-multi-rtmp
+```
+
 ### Create a portable flatpak file (Only if you want it for something):
 
 ```
