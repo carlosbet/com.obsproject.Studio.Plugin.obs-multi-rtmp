@@ -27,7 +27,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/carlosbet/obs-multi-rtmp.git
-        tag: v0.6.0.1
-        commit: fa583f579ba13b8761b4a313595b11a710400d6d
+        tag: v0.6.1
+        commit: 2811dc63e61f702125ec5b6c3dad19698e0d8c84
       - type: file
         path: com.obsproject.Studio.Plugin.obs-multi-rtmp.metainfo.xml
