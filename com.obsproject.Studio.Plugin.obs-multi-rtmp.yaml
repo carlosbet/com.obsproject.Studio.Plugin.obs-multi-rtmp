@@ -27,7 +27,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/carlosbet/obs-multi-rtmp.git
-        branch: flatpak
+        tag: v0.6.0.1
         commit: fa583f579ba13b8761b4a313595b11a710400d6d
       - type: file
         path: com.obsproject.Studio.Plugin.obs-multi-rtmp.metainfo.xml

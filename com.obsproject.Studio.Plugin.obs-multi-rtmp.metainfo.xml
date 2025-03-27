@@ -8,4 +8,14 @@
   <url type="homepage">https://github.com/sorayuki/obs-multi-rtmp</url>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-2.0</project_license>
+
+  <version>0.6.0.1</version>
+
+  <releases>
+    <release version="0.6.0.1" date="2024-03-18">
+      <description>
+        <p>https://github.com/sorayuki/obs-multi-rtmp/releases/tag/0.6.0.1</p>
+      </description>
+    </release>
+  </releases>  
 </component>
